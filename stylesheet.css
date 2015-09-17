@@ -1,0 +1,12 @@
+.body {
+	background-color: gray;
+	border: 10px solid white;
+}
+.p {
+	color: white;
+}
+.div1 {
+	font-family: Courier;
+	font-size: 15pt;
+	border: 25px solid white;
+}
